@@ -22,10 +22,6 @@ Apasionado por crear soluciones web escalables y eficientes. Transformando probl
   </a>
 </p>
 
-<br>
-
-<br>
-
 ### 💻 Stack Tecnológico
 
 | Frontend | Backend | DevOps/Herramientas |
