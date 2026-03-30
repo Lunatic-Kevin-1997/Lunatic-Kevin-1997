@@ -20,6 +20,13 @@ Apasionado por crear soluciones web escalables y eficientes. Transformando probl
   <img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css,mysql,docker,vite,postman,vercel,github,git" />
 </a>
 </p>
+## 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css,mysql,docker,vite,postman,vercel,github,git" />
+</a>
+</p>
 ## 📈 Mis Estadísticas de GitHub
 
 <p align="center">
