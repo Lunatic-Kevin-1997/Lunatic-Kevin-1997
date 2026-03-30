@@ -24,13 +24,6 @@ Apasionado por crear soluciones web escalables y eficientes. Transformando probl
 
 <br>
 
-## 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.herokuapp.com/api?username=kevinchira1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=kevinchira1997&layout=compact&theme=tokyonight&hide_langs_below=1" />
-</p>
-
 <br>
 
 ### 💻 Stack Tecnológico
