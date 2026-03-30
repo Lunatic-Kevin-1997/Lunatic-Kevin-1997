@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Kevin Chira 👋
+### Desarrollador Full-Stack | React & Laravel 🚀
 
-<!--
-**Lunatic-Kevin-1997/Lunatic-Kevin-1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por crear soluciones web escalables y eficientes. Transformando problemas complejos en interfaces intuitivas.
 
-Here are some ideas to get you started:
+🛠️ **Mi Stack Tecnológico:**
+* **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
+* **Backend:** PHP, Laravel, Node.js
+* **Bases de Datos:** MySQL, PostgreSQL
+* **DevOps & Tools:** Docker, Git, Vercel, Render, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contáctame:**
+* Email: kevin.al.svr@gmail.com
+
+🌟 **Proyecto Destacado:** (https://panel-asistencia-react.vercel.app/)
