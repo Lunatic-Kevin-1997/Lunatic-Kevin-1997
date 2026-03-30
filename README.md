@@ -33,7 +33,7 @@ Apasionado por crear soluciones web escalables y eficientes. Transformando probl
 
 <br>
 
-### 💻 Stack Tecnológico (Estilo Insignias)
+### 💻 Stack Tecnológico
 
 | Frontend | Backend | DevOps/Herramientas |
 | :--- | :--- | :--- |
