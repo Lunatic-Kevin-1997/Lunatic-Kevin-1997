@@ -26,8 +26,4 @@ Apasionado por crear soluciones web escalables y eficientes. Transformando probl
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lunatico-Kevin-1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunatico-Kevin-1997&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </p>
-### 💻 Stack Tecnológico
-| Frontend | Backend | DevOps/Herramientas |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+
